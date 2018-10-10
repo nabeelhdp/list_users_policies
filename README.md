@@ -7,7 +7,7 @@ python scriptname.py
 ```
 
 #Sample output
-
+```
 GROUP :  gp1: Members : [ dude1, user2, gal1 ]
 COLUMN :  *
 TABLE :  *
@@ -26,3 +26,4 @@ COLUMN :  *
 TABLE :  *
 DATABASE :  db_poc
 
+```
