@@ -1,12 +1,12 @@
 
-#Instructions
+# Instructions
 
 Place the exported json file in same folder as policies.json. run using 
 ```
 python scriptname.py
 ```
 
-#Sample output
+# Sample output
 ```
 GROUP :  gp1: Members : [ dude1, user2, gal1 ]
 COLUMN :  *
